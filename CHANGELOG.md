@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## Unreleased
 
+### security
+- Bump golang.org/x/net to v0.62.0 and github.com/pelletier/go-toml/v2 to v2.4.3 @shashank-reddy-nr [#1567](https://github.com/newrelic/nri-kubernetes/pull/1567)
+
 ## v4.9.1 - 2026-11-02
 
 ### ⛓️ Dependencies
